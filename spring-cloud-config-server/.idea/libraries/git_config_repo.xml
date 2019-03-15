@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="git-config-repo">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../git-config-repo" />
+    </SOURCES>
+  </library>
+</component>

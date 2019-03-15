@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netflix-eureka-naming-server.iml" filepath="$PROJECT_DIR$/netflix-eureka-naming-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netflix-eureka-naming-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netflix-eureka-naming-server_main.iml" group="netflix-eureka-naming-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netflix-eureka-naming-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netflix-eureka-naming-server_test.iml" group="netflix-eureka-naming-server" />
+    </modules>
+  </component>
+</project>
